@@ -2,6 +2,7 @@ from typing import Tuple, Union, Callable
 import numpy as np
 from numpy import typing
 from collections.abc import Sequence
+from tqdm import tqdm
 
 
 class RK(object):
