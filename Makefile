@@ -18,7 +18,7 @@ CFLAGS = -Wall -Wextra -ggdb -Iinclude
 LDFLAGS =
 
 # Directories
-SRCDIR = ./src
+SRCDIR = ./csrc
 BUILDDIR = ./build
 TARGET = main lorenz
 
